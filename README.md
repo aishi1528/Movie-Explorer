@@ -12,6 +12,11 @@ Search and discover movies with posters, ratings, cast, and plot details — pow
 
 ---
 
+## 📸 Preview
+![Typing Animation Demo]()
+
+---
+
 ## 🚀 Live Demo  
 👉 [Check it live here](https://aishi1528.github.io/movie-explorer/)  
 
