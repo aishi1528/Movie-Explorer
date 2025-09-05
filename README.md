@@ -13,7 +13,7 @@ Search and discover movies with posters, ratings, cast, and plot details — pow
 ---
 
 ## 📸 Preview
-![Movie Explorer Demo]()
+![Movie Explorer Demo](https://github.com/aishi1528/Movie-Explorer/blob/main/Demo.gif)
 
 ---
 
