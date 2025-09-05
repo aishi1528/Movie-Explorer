@@ -22,12 +22,5 @@ Search and discover movies with posters, ratings, cast, and plot details — pow
 
 ---
 
-## 🛠️ Tech Stack  
-- **HTML** – structure  
-- **CSS** – styling  
-- **JavaScript** – fetch API & logic  
-- **OMDb API** – movie database  
-
----
 
 
