@@ -18,9 +18,9 @@ Search and discover movies with posters, ratings, cast, and plot details — pow
 ---
 
 ## 🛠️ Tech Stack  
-- **HTML5** – structure  
-- **CSS3** – styling  
-- **JavaScript (ES6)** – fetch API & logic  
+- **HTML** – structure  
+- **CSS** – styling  
+- **JavaScript** – fetch API & logic  
 - **OMDb API** – movie database  
 
 ---
