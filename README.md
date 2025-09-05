@@ -13,7 +13,7 @@ Search and discover movies with posters, ratings, cast, and plot details — pow
 ---
 
 ## 📸 Preview
-![Typing Animation Demo]()
+![Movie Explorer Demo]()
 
 ---
 
