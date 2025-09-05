@@ -18,7 +18,7 @@ Search and discover movies with posters, ratings, cast, and plot details — pow
 ---
 
 ## 🚀 Live Demo  
-👉 [Check it live here](https://aishi1528.github.io/movie-explorer/)  
+👉 [Check it live here](https://aishi1528.github.io/Movie-Explorer/)  
 
 ---
 
